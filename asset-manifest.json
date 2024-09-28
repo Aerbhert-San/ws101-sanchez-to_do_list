@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ws101-sanchez-to_do_list/static/css/main.6b6ae476.css",
+    "main.js": "/ws101-sanchez-to_do_list/static/js/main.ce6a51f9.js",
+    "index.html": "/ws101-sanchez-to_do_list/index.html",
+    "main.6b6ae476.css.map": "/ws101-sanchez-to_do_list/static/css/main.6b6ae476.css.map",
+    "main.ce6a51f9.js.map": "/ws101-sanchez-to_do_list/static/js/main.ce6a51f9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b6ae476.css",
+    "static/js/main.ce6a51f9.js"
+  ]
+}
